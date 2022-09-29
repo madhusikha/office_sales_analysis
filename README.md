@@ -1,2 +1,5 @@
 # office_sales_analysis
-category wise sales analysis of an office using seaborn data visualization library
+Category wise sales analysis of an office using Seaborn data visualization library
+
+
+This work was carried out when I was learning an Udemy course by Jose Portilla, a big thank you to him.
